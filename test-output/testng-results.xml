@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T20:32:34 EET" name="Default suite" finished-at="2023-11-14T20:32:35 EET" duration-ms="801">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T20:32:34 EET" name="Default test" finished-at="2023-11-14T20:32:35 EET" duration-ms="801">
+      <class name="dataBaseProj.dataBaseCon">
+        <test-method is-config="true" signature="database1()[pri:0, instance:dataBaseProj.dataBaseCon@31fa1761]" started-at="2023-11-14T20:32:34 EET" name="database1" finished-at="2023-11-14T20:32:34 EET" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- database1 -->
+        <test-method signature="AddNewData()[pri:1, instance:dataBaseProj.dataBaseCon@31fa1761]" started-at="2023-11-14T20:32:34 EET" name="AddNewData" finished-at="2023-11-14T20:32:34 EET" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewData -->
+        <test-method signature="UpdateCutomerNumber()[pri:2, instance:dataBaseProj.dataBaseCon@31fa1761]" started-at="2023-11-14T20:32:34 EET" name="UpdateCutomerNumber" finished-at="2023-11-14T20:32:34 EET" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCutomerNumber -->
+        <test-method signature="SelectData()[pri:3, instance:dataBaseProj.dataBaseCon@31fa1761]" started-at="2023-11-14T20:32:34 EET" name="SelectData" finished-at="2023-11-14T20:32:35 EET" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectData -->
+        <test-method signature="DeleteUser()[pri:4, instance:dataBaseProj.dataBaseCon@31fa1761]" started-at="2023-11-14T20:32:35 EET" name="DeleteUser" finished-at="2023-11-14T20:32:35 EET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUser -->
+        <test-method is-config="true" signature="test3()[pri:0, instance:dataBaseProj.dataBaseCon@31fa1761]" started-at="2023-11-14T20:32:35 EET" name="test3" finished-at="2023-11-14T20:32:35 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- dataBaseProj.dataBaseCon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
